@@ -1,4 +1,4 @@
-![Macrosynergy](https://github.com/macrosynergy/macrosynergy/blob/main/docs/source/_static/MACROSYNERGY_Logo_Primary.png)
+![Macrosynergy](https://github.com/macrosynergy/.github/blob/main/profile/MACROSYNERGY_Logo_Primary.png)
 
 # Macrosynergy Public GitHub repositories
 
